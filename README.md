@@ -123,7 +123,7 @@ npm install
 # Start the development server
 npm run dev
 ``
-## visit: https://rubiks-cube-solver-02.vercel.app/
+Live demo: https://rubiks-cube-solver-02.vercel.app (rubiks-cube-solver-02.vercel.app)
 ---
 
 ## 📈 Future Enhancements
