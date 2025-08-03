@@ -124,7 +124,7 @@ npm install
 npm run dev
 ``
 #visit
-https://rubiks-cube-solver-02.vercel.app/
+"https://rubiks-cube-solver-02.vercel.app/"
 ---
 
 ## 📈 Future Enhancements
